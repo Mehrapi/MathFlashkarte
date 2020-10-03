@@ -315,6 +315,7 @@ public class MathFlashkarte extends JFrame {
         richtigantwort = 0;
         probeTextField.setText("0");
         richtigTextField.setText("0");
+        problemLabel.setText(getProblem());
     }
     else
     {
