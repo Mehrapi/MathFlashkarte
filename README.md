@@ -2,8 +2,7 @@
 
 ## Wilkommen auf meiner MathFalshkarte Repo.
 
-Mathflashkarte ist eine Applikation, mit der man seine Math fahigkeit trainieren kann. Es geht nur um einfache Berechnung mit Addition, Substruktion, Multiplikation und Division.
-Die Applikation ist noch nicht vertig, ich arbeite noch daran.
+Mathflashkarte ist eine Applikation, mit der man seine Math Fahigkeiten trainieren kann. Es geht nur um einfache Berechnung mit Addition, Substruktion, Multiplikation und Division. Die Applikation ist noch nicht vertig, ich arbeite noch daran.
 
 
 
